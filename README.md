@@ -1,27 +1,24 @@
-### Hi there 👋
+<h2>Hi there 👋, I'm Sebastian</h2>
+<h4>I am constantly learning about all aspects of web development! Although, I do have a slight itch for backend development 😅</h3>
+<p align="left">
+  <a href="https://github.com/sebat2004/sebat2004">
+    <img src="https://komarev.com/ghpvc/?username=sebat2004" alt="page views" />
+  </a>
+  <a href="https://github.com/sebat2004?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sebat2004?color=green&logo=github">
+  </a>
+</p>
+
+![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
-**sebat2004/sebat2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <table>
   <tr>
-        <td align="center" width="96">
-        <div>
-            <img src="./logos/python.svg" width="48" height="48" alt="Python" />
-        </div>
-        <br>Python
-        </td>
-    </tr>
+      <td align="center" width="96">
+        <img src="./logos/python.svg" width="64" height="80" alt="Python">Python</img>
+      </td>
+  </tr>
 </table>
+
+-->
