@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tr>
+        <td align="center" width="96">
+        <div>
+            <img src="./logos/python.svg" width="48" height="48" alt="Python" />
+        </div>
+        <br>Python
+        </td>
+    </tr>
+</table>
