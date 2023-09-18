@@ -10,7 +10,9 @@
 </p>
 
 ![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 <table>
