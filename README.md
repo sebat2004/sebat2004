@@ -1,5 +1,5 @@
-<h2>Hi there 👋, I'm Sebastian</h2>
-<h4>I am constantly learning about all aspects of web development! Although, I do have a slight itch for backend development 😅</h3>
+<h1>Hi there 👋, I'm Sebastian</h1>
+<h3>I am constantly learning about all aspects of web development! Although, I do have an itch for backend development 😅</h3>
 <p align="left">
   <a href="https://github.com/sebat2004/sebat2004">
     <img src="https://komarev.com/ghpvc/?username=sebat2004" alt="page views" />
