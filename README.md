@@ -1,10 +1,12 @@
 <h1>Hi there 👋, I'm Sebastian</h1>
 <h3>I am always striving to learn about all aspects of software development! Although, I do have an itch for backend web development 😅</h3>
 
-![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
+<div align="center">
+<img src="https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/sebat2004/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</div>
 
 <!--
 <table>
