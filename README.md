@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Sebastian</h1>
-<h3>I am constantly learning about all aspects of web development! Although, I do have an itch for backend development 😅</h3>
+<h3>I am always striving to learn about all aspects of software development! Although, I do have an itch for backend web development 😅</h3>
 
 ![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
