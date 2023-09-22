@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sebastian</h1>
-<h3 align="center">I am always striving to learn about all aspects of software development! Currently focusing on developing my testing skills</h3>
+<h3 align="center">I am always striving to learn about all aspects of software development! Currently focusing on developing my testing knowledge.</h3>
 
 <div align="center">
 <img src="https://github.com/sebat2004/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
