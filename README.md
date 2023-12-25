@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sebastian</h1>
+<h2 align="center">Hi there 👋, I'm Sebastian</h2>
 
 ```cpp
 class Sebastian {
