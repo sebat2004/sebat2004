@@ -5,7 +5,8 @@ class Sebastian {
   private:
     int age = 19;
     string school = "Oregon State University";
-    string[] hobbies = new string[] {"Basketball", "Learning Piano", "Poker", "Video Games"}
+    string[] currentCourses = new string[] {"Analysis of Algorithms, Software Engineering I/II"};
+    string[] hobbies = new string[] {"Basketball", "Learning Piano", "Poker", "Video Games"};
   public:
     Sebastian();
 }
