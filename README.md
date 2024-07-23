@@ -14,7 +14,7 @@
           int age = 19;
           string school = "Oregon State University";
           string[] courses = new string[] {"Algorithms, Software Engineering I/II"};
-          string[] hobbies = new string[] {"Basketball", "Learning Piano", "Poker"};
+          string[] hobbies = new string[] {"Basketball", "Piano", "Online Poker"};
         public:
           Sebastian();
   }
