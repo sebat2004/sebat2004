@@ -16,6 +16,5 @@
 Here are a few things I'm doing right now...
 
 - Creating [a website](https://github.com/sebat2004/keysight) that generates Synesthesia-like piano tutorials from any piano audio
-- Learning how to play songs like [Unravel](https://www.youtube.com/watch?v=sEQf5lcnj_o) and [Moonlight Sonata 3rd Movement](https://www.youtube.com/watch?v=XUzwdBQDzxw) on the piano
-- Refactoring an internal and customer-facing website during my internship at [Cboe](https://www.cboe.com/)
-
+- Learning how to play songs like [Prelude in C# Minor - Rach](https://www.youtube.com/watch?v=sCtixpIWBto) and [Red Swan from AoT](https://www.youtube.com/watch?v=sWcgKts80vM) on the piano
+- Preparing for the ICPC PNW Regionals competition :)
