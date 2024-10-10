@@ -6,7 +6,7 @@
         private:
           int age = 19;
           string school = "Oregon State University";
-          string[] courses = new string[] {"Algorithms, Software Engineering I/II"};
+          string[] courses = new string[] {"Capstone Project, Causal Inference in AI, Introduction to Databases"};
           string[] hobbies = new string[] {"Basketball", "Piano", "Poker"};
         public:
           Sebastian();
