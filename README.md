@@ -4,7 +4,7 @@
   ```cpp
   class Sebastian {
         private:
-          int age = 19;
+          int age = 20;
           string school = "Oregon State University";
           string[] courses = new string[] {"Capstone Project, Causal Inference in AI, Introduction to Databases"};
           string[] hobbies = new string[] {"Basketball", "Piano", "Poker"};
